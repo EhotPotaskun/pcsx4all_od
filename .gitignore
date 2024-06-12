@@ -11,4 +11,5 @@ stdout.txt
 *.diff
 *.sh
 *.bat
+*.bak
 err.txt
